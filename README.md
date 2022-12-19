@@ -1,4 +1,4 @@
-<img  height="400px" width="100%" src="pexels-pixabay-270360.jpg">
+
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" height="250px"  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611bc48336a034bbbcbb52d67a433f8ead6a3db780e&rid=giphy.gif&ct=g">
